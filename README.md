@@ -1,3 +1,4 @@
+# DATE 4/29/2024
 #  EXP NO-1 Mean and variance of a discrete  distribution
 
 
